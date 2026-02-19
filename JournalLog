@@ -1,0 +1,8 @@
+web application
+
+1)make box flatter
+2)add password (0-9)-4 digit hardcode
+3)notification - only 2 try -if not correct( 1 hour block)
+4)record of items - traced date and time
+5)automatic index for items
+6)name-amount-price(confirm/cancel button)
